@@ -45,6 +45,14 @@
 - **身份验证**: JWT tokens 配合 SHA-256 密码哈希
 - **权限管理**: 基于角色的访问控制（RBAC）
 
+## 准备域名
+
+Namesilo域名申请入口（Affiliate）：
+
+https://www.namesilo.com/?rid=0ac5797ay
+
+折扣码（Tim2026）
+
 ## 部署步骤
 
 ### 1. 安装依赖
